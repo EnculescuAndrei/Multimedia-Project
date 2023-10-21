@@ -1,0 +1,11 @@
+.lower-image {
+    margin-top: 190px;
+  }
+
+
+html,
+body {
+    background: no-repeat center fixed;
+    background-size: cover;
+    overflow: hidden;
+}
