@@ -1,5 +1,5 @@
 .lower-image {
-    margin-top: 190px;
+    margin-top: 350px;
   }
 
 html,
@@ -7,4 +7,56 @@ body {
     background: no-repeat center fixed;
     background-size: cover;
     overflow: hidden;
+}
+
+.custom-btn {
+  background-color: #05d9e88b;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-top: 180px;
+}
+
+.custom-btn:hover {
+  background-color: #005678;
+}
+
+.custom-btn-info {
+  background-color: #05d9e8;
+  border-radius: 20px;
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  margin-top: 250px;
+}
+
+.custom-btn-info:hover {
+  background-color: #06aeba;
+}
+
+.card {
+  margin-top: 250px;
+  border-radius: 20px;
+  background-color: #05d9e88b;
+  height: 500px;
+}
+
+.card-header {
+  background-color: #05d9e8;
+  color: rgb(0, 0, 0);
 }
