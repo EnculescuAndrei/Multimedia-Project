@@ -22,7 +22,6 @@ body {
   margin: 4px 2px;
   transition-duration: 0.4s;
   cursor: pointer;
-  margin-top: 180px;
 }
 
 .custom-btn:hover {
@@ -67,8 +66,7 @@ body {
   padding: 20px;
   margin: 20px;
   border-radius: 20px;
-  margin-top: 650px;
-  margin-left: 275px;
+  margin-top: 700px;
   color: black;
   background-color: #05d9e88b;
 }
